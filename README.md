@@ -43,7 +43,7 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Armaan22gautam
-* LinkedIn: Add your LinkedIn link here
+* LinkedIn: https://www.linkedin.com/in/armaan-gautam-936a43297/
 
 ---
 
