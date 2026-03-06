@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Armaan Gautam
 
-<!--
-**Armaan22gautam/Armaan22gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Chitkara University
+💻 Passionate about Software Development, Cyber Security, and Networking
+🚀 Currently learning Data Structures & Algorithms in Java and improving problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🌱 Currently learning **DSA in Java**
+* 💻 Interested in **Backend Development**
+* 🔐 Exploring **Cyber Security & Networking**
+* 🎯 Goal: Become a strong **Software Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Java, C++, Python (Basics)
+* **Backend:** Spring Boot
+* **Database:** MySQL
+* **Tools:** Git, GitHub, Docker
+* **Concepts:** Data Structures, Algorithms, OOP
+
+---
+
+## 📂 Projects
+
+* 🔹 **Customer Data Unification Platform**
+* 🔹 **Spring Boot REST APIs**
+* 🔹 **API Development Projects**
+
+---
+
+## 📊 GitHub Stats
+
+* Repositories: Check my work below 👇
+* Focus: Building strong fundamentals in **DSA and Backend Development**
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Armaan22gautam
+* LinkedIn: Add your LinkedIn link here
+
+---
+
+⭐ *Always learning, building, and improving.*
