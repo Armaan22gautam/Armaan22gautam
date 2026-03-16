@@ -1,50 +1,18 @@
-# Hi 👋, I'm Armaan Gautam
+# 💫 About Me:
+🔭 I’m currently working on: AI projects and DSA practice<br>👯 I’m looking to collaborate on: Open source AI, backend, and cybersecurity projects<br>🤝 I’m looking for help with: Advanced system design, scalable AI apps, and distributed systems<br>🌱 I’m currently learning: Data Structures & Algorithms (Java), Cyber Security, Networking, and AI Engineering<br>💬 Ask me about: Java, DSA, GitHub, AI projects, and backend development<br>⚡ Fun fact: I enjoy solving LeetCode problems and building AI tools that automate real tasks
 
-🎓 B.Tech CSE Student at Chitkara University
-💻 Passionate about Software Development, Cyber Security, and Networking
-🚀 Currently learning Data Structures & Algorithms in Java and improving problem-solving skills.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/armaan.gautam96/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/armaan-gautam-936a43297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armaangautam001@gmail.com) 
 
-## 👨‍💻 About Me
-
-* 🌱 Currently learning **DSA in Java**
-* 💻 Interested in **Backend Development**
-* 🔐 Exploring **Cyber Security & Networking**
-* 🎯 Goal: Become a strong **Software Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-* **Languages:** Java, C++, Python (Basics)
-* **Backend:** Spring Boot
-* **Database:** MySQL
-* **Tools:** Git, GitHub, Docker
-* **Concepts:** Data Structures, Algorithms, OOP
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Armaan22gautam&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Armaan22gautam&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan22gautam&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Armaan22gautam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-* 🔹 **Customer Data Unification Platform**
-* 🔹 **Spring Boot REST APIs**
-* 🔹 **API Development Projects**
-
----
-
-## 📊 GitHub Stats
-
-* Repositories: Check my work below 👇
-* Focus: Building strong fundamentals in **DSA and Backend Development**
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Armaan22gautam
-* LinkedIn: https://www.linkedin.com/in/armaan-gautam-936a43297/
-
----
-
-⭐ *Always learning, building, and improving.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
